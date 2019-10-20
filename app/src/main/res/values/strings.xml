@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">ListView with CustomAdapter</string>
+
+    <string-array name="country_names">
+
+        <item> Bangladesh </item>
+        <item> India </item>
+        <item> USA </item>
+        <item> Germany </item>
+        <item> Canada </item>
+        <item> London </item>
+        <item> Bangladesh </item>
+        <item> India </item>
+        <item> USA </item>
+        <item> Germany </item>
+        <item> Canada </item>
+        <item> London </item>
+        <item> Bangladesh </item>
+        <item> India </item>
+        <item> USA </item>
+        <item> Germany </item>
+        <item> Canada </item>
+        <item> London </item>
+
+    </string-array>
+</resources>
